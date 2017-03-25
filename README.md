@@ -1,2 +1,3 @@
 # RelativeLayout
+注意使用gravity以及layout_alignParentRight等属性来控制控件在界面中的显示，android:layout_gravity是用来设置该view相对与起父view 的位置
 ![图片](https://github.com/liyuaner/RelativeLayout/commit/97b89704a29cc746a1da6394e749fa6d570b6453)
